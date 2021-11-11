@@ -1,0 +1,16 @@
+C:\Users\lehtmojoe\source\repos\DiceGameDemo\DiceGameDemo\obj\Debug\net5.0\DiceGameDemo.csproj.AssemblyReference.cache
+C:\Users\lehtmojoe\source\repos\DiceGameDemo\DiceGameDemo\obj\Debug\net5.0\DiceGameDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lehtmojoe\source\repos\DiceGameDemo\DiceGameDemo\obj\Debug\net5.0\DiceGameDemo.AssemblyInfoInputs.cache
+C:\Users\lehtmojoe\source\repos\DiceGameDemo\DiceGameDemo\obj\Debug\net5.0\DiceGameDemo.AssemblyInfo.cs
+C:\Users\lehtmojoe\source\repos\DiceGameDemo\DiceGameDemo\obj\Debug\net5.0\DiceGameDemo.csproj.CoreCompileInputs.cache
+C:\Users\lehtmojoe\source\repos\DiceGameDemo\DiceGameDemo\bin\Debug\net5.0\DiceGameDemo.exe
+C:\Users\lehtmojoe\source\repos\DiceGameDemo\DiceGameDemo\bin\Debug\net5.0\DiceGameDemo.deps.json
+C:\Users\lehtmojoe\source\repos\DiceGameDemo\DiceGameDemo\bin\Debug\net5.0\DiceGameDemo.runtimeconfig.json
+C:\Users\lehtmojoe\source\repos\DiceGameDemo\DiceGameDemo\bin\Debug\net5.0\DiceGameDemo.runtimeconfig.dev.json
+C:\Users\lehtmojoe\source\repos\DiceGameDemo\DiceGameDemo\bin\Debug\net5.0\DiceGameDemo.dll
+C:\Users\lehtmojoe\source\repos\DiceGameDemo\DiceGameDemo\bin\Debug\net5.0\ref\DiceGameDemo.dll
+C:\Users\lehtmojoe\source\repos\DiceGameDemo\DiceGameDemo\bin\Debug\net5.0\DiceGameDemo.pdb
+C:\Users\lehtmojoe\source\repos\DiceGameDemo\DiceGameDemo\obj\Debug\net5.0\DiceGameDemo.dll
+C:\Users\lehtmojoe\source\repos\DiceGameDemo\DiceGameDemo\obj\Debug\net5.0\ref\DiceGameDemo.dll
+C:\Users\lehtmojoe\source\repos\DiceGameDemo\DiceGameDemo\obj\Debug\net5.0\DiceGameDemo.pdb
+C:\Users\lehtmojoe\source\repos\DiceGameDemo\DiceGameDemo\obj\Debug\net5.0\DiceGameDemo.genruntimeconfig.cache
